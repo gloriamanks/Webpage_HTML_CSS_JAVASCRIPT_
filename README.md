@@ -61,7 +61,4 @@ Used to style the webpage and improve the user experience, such as:
 
 - Centre-aligned profile image  
 - Decorative rose-pattern backgrounds on text sections  
-- A clean, soft aesthetic with colour-coordinated elements  
-- A simple list of Gloria’s favourite things  
-- Responsive design for different screen sizes  
-- Light, friendly wri
+
